@@ -106,7 +106,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
-  gmaps4rails
+  gmaps4rails (~> 1.4.5)
   jquery-rails
   rails (= 3.2.1)
   sass-rails (~> 3.2.3)

@@ -51,9 +51,8 @@ module Gmaps
     # config.active_record.whitelist_attributes = true
 
     # Enable the asset pipeline
-    config.assets.enabled = false
-    #Note that this has been changed to FALSE
-
+    config.assets.enabled = true
+    
     # Version of your assets, change this if you want to expire all your assets
     config.assets.version = '1.0'
   end
